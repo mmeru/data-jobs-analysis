@@ -1,4 +1,4 @@
-Analysis of Data Jobs Worldwide (2020-2023)
+# Analysis of Data Jobs Worldwide (2020-2023)
 
 ## Introduction
 This project aims to analyze the state of data jobs worldwide from 2020 to 2023 using MySQL and PowerBI. The analysis includes various metrics such as the sum of positions, sum of positions by job category, sum of salaries by job category, number of positions by work setting, and number of positions by company size.
